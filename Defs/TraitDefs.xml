@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>ron_onewithnature</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>One with Nature</label>
+        <description>{PAWN_nameDef} is especially in tune with nature, allowing them to be aknowledged by the Anima Tree.</description>
+        <allowedMeditationFocusTypes><li>Natural</li></allowedMeditationFocusTypes>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+
+</Defs>
